@@ -1,0 +1,14 @@
+version: '2'
+services:
+  selenium:
+    build: .
+    image: "igaki/selenium"
+    container_name: "selenium"
+    hostname: "selenium"
+    stdin_open: true
+    tty: true
+    volumes:
+      - /home/selenium/data/log/:/var/log/
+      - /home/selenium/data:/data
+    environment:
+     TZ: "Asia/Tokyo"

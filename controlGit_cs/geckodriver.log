@@ -1,0 +1,969 @@
+1492669191220	geckodriver	INFO	Listening on 127.0.0.1:42366
+1492669192298	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.6oW4eEu0UZbT
+1492669192299	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1492669192302	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38679
+Xlib:  extension "RANDR" missing on display ":1001".
+1492669314271	geckodriver	INFO	Listening on 127.0.0.1:59893
+1492669315351	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.ufCsfIuGwhiT
+1492669315352	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1492669315355	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37095
+Xlib:  extension "RANDR" missing on display ":1005".
+1492669849246	geckodriver	INFO	Listening on 127.0.0.1:34578
+1492669850324	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.ZsvQF28LcN9D
+1492669850325	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1492669850328	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44286
+Xlib:  extension "RANDR" missing on display ":1009".
+1492670589042	geckodriver	INFO	Listening on 127.0.0.1:47733
+1492670590120	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.JpBayhId22Me
+1492670590121	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1492670590124	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35573
+Xlib:  extension "RANDR" missing on display ":1013".
+1492671076083	geckodriver	INFO	Listening on 127.0.0.1:48300
+1492671077159	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.eAMMHmjaBYfW
+1492671077160	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1492671077163	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33488
+Xlib:  extension "RANDR" missing on display ":1017".
+1492671277082	geckodriver	INFO	Listening on 127.0.0.1:40595
+1492671278159	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.f0MloVeEmGkP
+1492671278160	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1492671278163	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44449
+Xlib:  extension "RANDR" missing on display ":1021".
+
+(firefox:814): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion `g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:814): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion `g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:814): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion `g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1492671281543 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+
+(firefox:814): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion `g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1492671283149 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+
+(firefox:814): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion `g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1492671284888 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671286617 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671288348 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671290132 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671291930 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671293684 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671295429 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671297451 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671299223 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671301031 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671302812 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671304560 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671306317 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671308270 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671310035 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671311860 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671313596 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671315434 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671317222 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671318989 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671320722 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671322587 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671324383 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671326201 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671327972 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671329878 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671331665 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671333431 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671335191 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671337272 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671339099 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671341000 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671342849 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671345069 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671346871 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671348649 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671351159 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671352982 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671354811 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671356576 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671358623 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671360463 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671362314 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671364110 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671366245 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671368021 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671369777 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671371900 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671373730 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671375574 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671377328 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671379285 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671381078 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671382911 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671384649 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671386525 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492671388172 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+
+(firefox:814): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion `g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1492671388927 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671390441 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492671392049 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492671392976 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671394845 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492671396504 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492671397178 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671398690 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492671400868 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492671401592 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671403119 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492671404717 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492671405368 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671406988 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492671409211 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492671409902 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671411452 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492671413068 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492671413718 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671416268 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492671417910 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492671418671 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671420174 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492671421764 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492671422771 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671425114 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492671426734 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492671427404 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671428910 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492671431384 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492671432075 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671433601 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492671435213 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492671435862 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671438059 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492671439690 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492671440400 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671441907 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492671443493 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492671444175 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671445839 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492671447459 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492671448140 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671449671 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492671451254 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492671451892 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671453613 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492671455229 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492671455937 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671457477 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492671459074 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492671459828 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671461526 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492671464177 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492671464915 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671466455 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492671468045 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492671470293 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671471819 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492671473447 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492671474187 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671475721 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492671477376 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492671478627 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671480182 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492671481815 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492671482494 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671484012 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492671485674 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492671487707 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671489254 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492671490915 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492671491603 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671493123 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492671495790 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492671496518 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671498061 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492671499658 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492671500314 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671502019 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492671503707 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492671504401 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671505930 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492671507533 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492671508186 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671509935 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492671512294 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492671512980 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671514587 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492671516213 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492671516881 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671519291 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492671520963 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492671521699 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671523212 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492671524810 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492671525848 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671528714 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492671530360 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492671531108 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671532632 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492671534241 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492671535385 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671537807 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492671539456 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492671540137 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671541643 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492671545197 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492671545904 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671547443 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492671549064 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492671549724 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671552504 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492671554145 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492671554878 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671556393 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492671557988 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492671558725 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671560338 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492671563290 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492671563972 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671565533 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492671567173 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492671567836 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671570704 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492671572347 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492671573045 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671574551 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492671576145 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492671576845 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671578503 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492671581500 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492671582203 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671583762 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492671585378 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492671586040 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671589820 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492671591477 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492671592213 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671593737 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492671595350 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492671596521 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671599260 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492671600927 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492671601674 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671603192 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492671604875 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492671606100 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671608757 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492671610408 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492671611088 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671612595 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492671614382 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492671615586 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671618928 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492671620579 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492671621283 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492671622795 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492671625750 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :1021.
+1492672290432	geckodriver	INFO	Listening on 127.0.0.1:47394
+1492672291507	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.GutOniX9eq4Z
+1492672291508	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1492672291511	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37210
+Xlib:  extension "RANDR" missing on display ":1021".
+
+(firefox:1903): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion `g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:1903): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion `g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:1903): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion `g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1492672294763 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+
+(firefox:1903): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion `g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1492672296524 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+
+(firefox:1903): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion `g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1492672298269 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672299992 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672301701 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672303478 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672305264 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672307035 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672308794 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672310815 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672312606 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672314496 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672316310 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672318134 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672319876 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672321979 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672323769 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672325523 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672327316 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672329340 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672331120 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672332871 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672334834 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672336628 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672338436 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672340207 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672342128 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672343951 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672345778 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672347527 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672349672 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672351517 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672353292 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672355273 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672357118 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672358896 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672360667 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672362661 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672364456 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672366273 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672368047 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672370008 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672371802 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672373575 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672375325 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672377829 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672379646 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672381486 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672383266 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672385469 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672387309 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672389179 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672391141 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672393630 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672395460 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672397227 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672399415 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672400948 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492672402569 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+
+(firefox:1903): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion `g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1492672403234 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672404746 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492672406787 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492672407497 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672409090 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492672410707 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492672411370 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672412943 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492672415231 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492672415921 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672417436 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492672419039 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492672419718 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672422265 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492672423901 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492672424620 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672426139 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492672427728 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492672428679 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672431109 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492672432745 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492672433415 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672434931 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492672436876 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492672437575 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672439094 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492672440689 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492672441342 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672443488 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492672445125 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492672445831 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672447332 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492672448919 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492672449594 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672451321 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492672452942 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492672453674 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672455185 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492672456773 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492672457592 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672460193 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492672461831 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492672462601 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672464117 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492672465702 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492672466694 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672469319 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492672470963 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492672471635 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672473201 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492672475879 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492672476567 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672478083 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492672479684 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492672480345 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672482657 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492672484302 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492672485038 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672486561 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492672488163 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492672489035 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672491639 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492672493319 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492672494060 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672495574 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492672497207 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492672499415 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672500945 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492672502596 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492672503269 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672504773 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492672507420 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492672508120 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672509640 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492672511244 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492672511910 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672514430 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492672516093 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492672516840 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672518358 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492672519971 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492672521031 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672523546 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492672525216 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492672525953 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672527485 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492672529158 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492672531522 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672533064 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492672534714 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492672535379 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672536886 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492672539084 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492672539777 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672541304 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492672542910 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492672543574 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672546131 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492672547819 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492672548496 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672550008 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492672551602 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492672552256 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672554468 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492672556107 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492672556823 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672558365 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492672559957 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492672560701 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672562394 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492672565163 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492672565858 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672567415 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492672569077 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492672569747 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672573284 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492672574944 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492672575691 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672577209 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492672578813 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492672580004 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672582640 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492672584281 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492672584967 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672586485 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492672589392 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492672590103 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672591643 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492672593261 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492672593926 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672595546 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492672597327 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492672599789 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672601358 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492672603026 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492672603719 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672605320 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492672608865 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492672609568 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672611101 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492672612722 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492672613387 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672617121 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492672618784 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492672619545 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672621075 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492672622673 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492672623906 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672626686 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492672628338 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492672629021 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672630538 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492672633629 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492672636091 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672637634 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492672639272 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492672639938 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492672641473 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492672643519 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :1021.
+1492734919178	geckodriver	INFO	Listening on 127.0.0.1:57467
+1492734920262	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.ffd3iju1kEUi
+1492734920263	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1492734920266	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44938
+Xlib:  extension "RANDR" missing on display ":1021".
+
+(firefox:3229): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion `g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:3229): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion `g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:3229): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion `g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1492734925219 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492734927011 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+
+(firefox:3229): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion `g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:3229): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion `g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1492734928768 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492734930493 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492734932289 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492734934062 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492734935824 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492734937561 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492734939579 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492734941345 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492734943155 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492734944923 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492734946676 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492734948415 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492734950311 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492734952066 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492734953863 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492734955612 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492734957630 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492734959463 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492734961281 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492734963015 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492734965099 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492734966891 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492734968633 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492734970524 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492734972300 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492734974126 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492734975878 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492734977787 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492734979620 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492734981375 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492734983140 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492734985296 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492734987106 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492734988862 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492734990677 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492734993140 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492734994938 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492734996715 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492734998688 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492735000473 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492735002293 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492735004054 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492735006016 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492735007859 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492735009722 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492735011511 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492735013799 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492735015604 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492735017370 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492735020041 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492735021815 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492735023614 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492735025386 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492735028088 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492735029858 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492735031434 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492735033081 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+
+(firefox:3229): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion `g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1492735033725 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492735035286 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492735037761 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492735038500 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492735040027 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492735041645 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492735042368 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492735044379 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492735046041 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492735046710 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492735048214 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492735050392 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492735051099 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492735052642 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492735054285 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492735054942 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492735056511 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492735058951 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492735059625 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492735061145 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492735062758 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492735063394 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492735065458 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492735067115 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492735067813 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492735069322 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492735070946 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492735072881 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492735074407 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492735076039 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492735076710 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492735078214 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492735080439 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492735081142 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492735082689 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492735084339 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492735084988 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492735086485 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492735088229 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492735089874 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492735091431 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492735093089 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492735093751 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492735095321 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492735097790 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492735098469 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492735100001 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492735101703 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492735102357 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492735104691 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492735106339 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492735107055 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492735108558 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492735110185 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492735112295 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492735113819 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492735115444 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492735116111 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492735117615 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492735119983 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492735120680 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492735122233 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492735123892 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492735124545 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492735126111 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492735127848 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492735129762 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492735131288 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492735132956 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492735133627 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492735135127 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492735138071 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492735138763 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492735140300 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492735141923 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492735142582 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492735144186 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492735146808 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492735147508 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492735149028 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492735150651 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492735151315 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492735153698 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492735156611 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492735157365 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492735158875 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492735160500 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492735161278 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492735164170 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492735165868 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492735166629 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492735168145 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492735171602 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492735172316 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492735173828 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492735175468 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492735176133 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492735177626 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492735179996 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492735180681 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492735182251 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492735183912 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492735184587 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492735186175 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492735187955 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492735190144 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492735191668 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492735193343 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492735194019 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492735195526 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492735197552 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492735199630 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492735201162 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492735202794 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492735203450 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492735205085 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492735208393 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492735209085 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492735210610 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492735212239 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492735212890 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492735215602 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492735218745 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492735219500 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492735221008 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492735222637 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492735223445 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492735226643 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492735228328 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492735229084 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492735230598 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492735234574 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492735235283 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492735236792 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492735238433 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492735239084 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492735240585 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492735244147 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492735244852 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492735246407 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492735248054 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492735248717 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492735250325 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492735253919 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492735254637 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492735256189 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492735257818 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492735258477 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492735260096 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492735263676 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492735264389 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492735265944 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492735267581 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492735268238 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492735269844 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492735273569 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492735274291 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492735275839 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492735277494 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :1021.
+1492737212532	geckodriver	INFO	Listening on 127.0.0.1:50768
+1492737213609	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.bfpKTiyf0h1c
+1492737213610	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1492737213613	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39095
+Xlib:  extension "RANDR" missing on display ":1021".
+
+(firefox:4313): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion `g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:4313): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion `g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:4313): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion `g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1492737216216 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+
+(firefox:4313): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion `g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1492737217852 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+
+(firefox:4313): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion `g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1492737219599 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737221320 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737223033 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737224855 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737226836 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737228595 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737230347 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737232114 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737233921 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737235648 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737237764 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737239536 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737241286 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737243418 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737245232 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737247067 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737248817 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737250670 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737252459 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737254284 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737256012 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737258107 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737259886 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737261620 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737263516 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737265328 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737267140 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737268880 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737270785 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737272600 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737274426 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737276191 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737278853 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737280665 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737282418 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737284682 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737286513 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737288376 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737290313 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737292254 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737294046 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737295818 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737297835 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737299628 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737301443 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737303199 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737305590 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737307448 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737309307 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737311243 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737313804 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737315638 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737317412 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737319471 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737321289 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737322884 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492737324527 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+
+(firefox:4313): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion `g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1492737326080 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737327610 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492737329287 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492737329947 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737331447 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492737333149 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492737334764 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737336313 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492737337978 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492737338633 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737340183 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492737342312 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492737342996 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737344515 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492737346134 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492737346785 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737348789 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492737350450 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492737351189 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737352713 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492737354339 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492737355319 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737357279 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492737358963 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492737359693 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737361213 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492737364078 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492737364767 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737366274 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492737367899 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492737368549 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737370044 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492737372105 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492737372793 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737374311 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492737375948 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492737376596 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737378783 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492737380471 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492737381151 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737382681 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492737384293 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492737385029 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737386727 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492737388824 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492737389501 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737391025 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492737392635 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492737393291 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737395333 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492737397002 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492737397779 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737399297 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492737400964 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492737401884 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737404542 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492737406222 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492737406963 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737408512 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492737411754 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492737412451 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737413961 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492737415620 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492737416371 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737417890 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492737420425 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492737421137 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737422698 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492737424359 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492737425035 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737426610 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492737428403 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492737430364 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737431926 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492737433587 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492737434258 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737435823 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492737438611 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492737439308 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737440825 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492737442450 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492737443100 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737444684 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492737447392 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492737448079 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737449600 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492737451222 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492737451875 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737453428 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492737456374 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492737457056 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737458575 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492737460220 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492737460870 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737464055 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492737466266 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492737467014 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737468520 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492737470136 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492737470982 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737473630 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492737475324 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492737476056 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737477573 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492737479248 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492737480425 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737483416 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492737485075 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492737485782 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737487291 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492737489863 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492737490571 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737492131 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492737493808 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492737494477 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737496058 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492737497856 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492737500168 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737501709 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492737503389 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492737504071 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737505593 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492737507609 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492737509767 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737511310 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492737512945 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492737513612 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737515264 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492737518587 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492737519282 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737520833 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492737522468 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492737523125 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737524727 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492737528285 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492737529003 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737530531 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492737532176 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492737532849 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737534448 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492737537976 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492737538707 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737540255 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492737541890 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492737542546 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737544151 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492737546161 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492737548606 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737550158 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492737551804 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492737552478 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737554078 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492737556058 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492737558543 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737560097 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492737561725 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+1492737562381 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: password, tagName: INPUT, className: form-control
+1492737564038 Marionette: Element is missing an accesible name -> id: name, tagName: INPUT, className: form-control
+1492737567880 Marionette: Element is missing an accesible name -> id: userName-collaborator, tagName: INPUT, className: form-control
+firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :1021.
